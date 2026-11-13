@@ -1,0 +1,30 @@
+{
+  "formulae": [
+    {
+      "name": "git",
+      "installed_versions": ["2.46.0"],
+      "current_version": "2.47.1",
+      "pinned": false,
+      "pinned_version": null
+    },
+    {
+      "name": "node",
+      "installed_versions": ["22.1.0"],
+      "current_version": "23.3.0",
+      "pinned": true,
+      "pinned_version": "22.1.0"
+    }
+  ],
+  "casks": [
+    {
+      "name": "firefox",
+      "installed_versions": ["131.0"],
+      "current_version": "133.0"
+    },
+    {
+      "name": "visual-studio-code",
+      "installed_versions": "1.94.0",
+      "current_version": "1.95.3"
+    }
+  ]
+}

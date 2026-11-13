@@ -1,0 +1,45 @@
+﻿Name                                                         Id                                             Version         Available      Source
+-------------------------------------------------------------------------------------------------------------------------------------------------
+7-Zip 25.00 (x64)                                            7zip.7zip                                      25.00           26.06          winget
+AnyDesk                                                      AnyDesk.AnyDesk                                ad 9.0.14       9.8.3          winget
+Bambu Studio                                                 Bambulab.Bambustudio                           02.05.00.66     02.09.01.70    winget
+Bionic 1.1.3+5                                               ElementLabs.Bionic                             1.1.3+5         1.2.0+2        winget
+ChatGPT                                                      OpenAI.ChatGPT                                 26.707.3748.0   26.1106.6628.0 winget
+CrystalDiskInfo 9.7.2 Shizuku Edition                        CrystalDewWorld.CrystalDiskInfo.ShizukuEdition 9.7.2           9.9.4          winget
+Docker Desktop                                               Docker.DockerDesktop                           4.93.0          4.99.0         winget
+Epic Games Launcher                                          EpicGames.EpicGamesLauncher                    1.3.151.0       1.3.210.0      winget
+FilmCraft                                                    ArtCraft.FilmCraft                             0.17.0          0.18.0         winget
+GitHub CLI                                                   GitHub.cli                                     2.101.0         2.103.3        winget
+HWiNFO® 64                                                   REALiX.HWiNFO                                  8.52            8.54           winget
+IntelliJ IDEA 2026.2.3                                       JetBrains.IntelliJIDEA                         2026.2.3        2026.3         winget
+Java(TM) SE Development Kit 25 (64-bit)                      Oracle.JDK.25                                  25.0.0.0        25.0.5.0       winget
+LocalSend version 1.17.0                                     LocalSend.LocalSend                            1.17.0          1.18.2         winget
+Microsoft .NET Runtime - 8.0.21 (x64)                        Microsoft.DotNet.Runtime.8                     8.0.21          8.0.34         winget
+Microsoft ASP.NET Core 8.0.8 - Shared Framework (x64)        Microsoft.DotNet.AspNetCore.8                  8.0.8           8.0.34         winget
+Microsoft ODBC Driver 17 for SQL Server                      Microsoft.msodbcsql.17                         17.10.6.1       17.11.1.1      winget
+Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501 Microsoft.VCRedist.2013.x64                    12.0.30501.0    12.0.40664.0   winget
+Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501 Microsoft.VCRedist.2013.x86                    12.0.30501.0    12.0.40664.0   winget
+Microsoft Visual C++ v14 Redistributable (x64) - 14.51.36247 Microsoft.VCRedist.2015+.x64                   14.51.36247.0   14.52.37029.0  winget
+Microsoft Visual C++ v14 Redistributable (x86) - 14.51.36247 Microsoft.VCRedist.2015+.x86                   14.51.36247.0   14.52.37029.0  winget
+Microsoft Visual Studio Code (User)                          Microsoft.VisualStudioCode                     1.141.2         1.145.3        winget
+Microsoft Windows Desktop Runtime - 8.0.19 (x64)             Microsoft.DotNet.DesktopRuntime.8              8.0.19          8.0.34         winget
+Microsoft Windows Desktop Runtime 10.0.2 (x64)               Microsoft.DotNet.DesktopRuntime.10             10.0.2          10.0.15        winget
+Node.js                                                      OpenJS.NodeJS.22                               22.17.1         22.23.5        winget
+OBS Studio                                                   OBSProject.OBSStudio                           32.2.2          33.0.0         winget
+Obsidian                                                     Obsidian.Obsidian                              1.13.4          1.15.0         winget
+Prism Launcher                                               PrismLauncher.PrismLauncher                    11.1.0          11.1.1         winget
+Python 3.13.5 (64-bit)                                       Python.Python.3.13                             3.13.5          3.13.17        winget
+Python Launcher                                              Python.Launcher                                3.13.5          3.15.2         winget
+RivaTuner Statistics Server 7.3.4                            Guru3D.RTSS                                    7.3.4           7.3.7          winget
+Rustup: the Rust toolchain installer                         Rustlang.Rustup                                1.29.1          1.29.3         winget
+Telegram Desktop                                             Telegram.TelegramDesktop                       7.2.9           7.4.2          winget
+Ubisoft Connect                                              Ubisoft.Connect                                < 175.1.0.13416 175.1.0.13416  winget
+Visual Studio Community 2026                                 Microsoft.VisualStudio.Community               18.10.3         18.12.0        winget
+VLC media player                                             VideoLAN.VLC                                   3.0.23          3.0.24         winget
+Windows Subsystem for Linux                                  Microsoft.WSL                                  2.5.9.0         3.0.5          winget
+Windows Terminal                                             Microsoft.WindowsTerminal                      1.23.20211.0    1.25.3131.0    winget
+WindowsAppRuntime.1.7                                        Microsoft.WindowsAppRuntime.1.7                1.7.8           1.7.9          winget
+Winhance v26.02.20                                           memstechtips.Winhance                          26.02.20        26.06.12       winget
+WizTree v4.28                                                AntibodySoftware.WizTree                       4.28            4.33           winget
+41 upgrades available.
+2 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
